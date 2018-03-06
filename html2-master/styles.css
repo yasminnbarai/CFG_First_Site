@@ -1,0 +1,25 @@
+#about_blue{
+  background:#6495ED;
+  border-style:solid;
+  border-width:3px;
+  border-color:black;
+}
+
+#about_yellow{
+  background:#FFEBCD;
+  border-style:solid;
+  border-width:3px;
+  border-color:black;
+}
+
+#about_blue ul  {
+  color: blue
+}
+#about_yellow ul {
+  color: orange
+}
+
+.important {
+  font-size: 16px;
+  font weight: bold;
+}
